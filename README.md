@@ -76,6 +76,14 @@ I believe in continuous learning and leveraging innovative technologies to solve
 
 ## 📚 Projects
 
+### Trello-like task management App
+- Task List Creation: Users can create task lists to organize projects.
+- Task Creation: Tasks can be added to any list with details.
+- Task Deletion: Tasks can be removed as needed.
+- Task Detail View: View and update task details.
+- Task Description: Add or update task descriptions for clarity.
+- Drag-and-Drop: Move tasks between lists seamlessly with drag-and-drop functionality.
+
 ### Vehicle Diagnostics App  
 - Developed an app serving over 500 daily users for ECU communication with 95% accuracy.  
 - Designed a rule engine that improved repair estimates by 20%.
