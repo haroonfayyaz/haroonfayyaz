@@ -15,7 +15,6 @@ I believe in continuous learning and leveraging innovative technologies to solve
 - 👯 I’m looking to collaborate on **open-source projects** and **API integration** solutions.
 - 🤔 I’m looking for help with **scalable serverless architectures**.
 - 💬 Ask me about **API design**, **Docker**, and **Cloud Deployment**.
-- 📫 How to reach me: [haroonfayyaz98@gmail.com](mailto:haroonfayyaz98@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I optimized cloud costs by 60% while enhancing performance by 20% in my recent project.
 
