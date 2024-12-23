@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with over 4 years of experience in designing and developing scalable, high-performance full-stack applications. I specialize in **Python**, **MERN stack**, and cloud-based solutions, with a track record of reducing application response times, optimizing system performance, and leading successful development teams.
+I'm a passionate **Software Engineer** with 6+ years of experience in designing and developing scalable, high-performance full-stack applications. I specialize in **Python**, **Django**, **Flask, 
+JavaScript, React, Node, Next.js, TypeScript, & Nest.js** and cloud-based solutions, with a track record of reducing application response times, optimizing system performance, and leading successful development teams.
 
 I believe in continuous learning and leveraging innovative technologies to solve complex problems.
 
@@ -10,7 +11,6 @@ I believe in continuous learning and leveraging innovative technologies to solve
 
 ## 🌟 Highlights
 
-- 🔭 I’m currently working at **Qbatch**, leading full-stack projects that enhance user experience and system efficiency.
 - 🌱 I’m currently learning advanced **AWS Cloud** services and **Kubernetes** for container orchestration.
 - 👯 I’m looking to collaborate on **open-source projects** and **API integration** solutions.
 - 🤔 I’m looking for help with **scalable serverless architectures**.
@@ -67,7 +67,7 @@ I believe in continuous learning and leveraging innovative technologies to solve
 
 ## 🏆 Achievements
 
-- **Employee of the Month (Dec 2022)**: Awarded for leadership and enhancing scalability at Qbatch.
+- **Employee of the Month (Dec 2022)**: Awarded for leadership and enhancing scalability.
 - **Standout Performer (Oct 2022)**: Recognized for improving team collaboration and code quality.
 - **Dean’s List**: Achieved this honor in 5 semesters during my Bachelor’s in Computer Science.
 
@@ -83,10 +83,6 @@ I believe in continuous learning and leveraging innovative technologies to solve
 - Task Description: Add or update task descriptions for clarity.
 - Drag-and-Drop: Move tasks between lists seamlessly with drag-and-drop functionality.
 
-### Vehicle Diagnostics App  
-- Developed an app serving over 500 daily users for ECU communication with 95% accuracy.  
-- Designed a rule engine that improved repair estimates by 20%.
-
 ### Automated Dropshipping Platform  
 - Streamlined order fulfillment, reducing processing time by 40%.  
 - Automated competitor price tracking, resulting in a 20% increase in revenue.
@@ -96,7 +92,5 @@ I believe in continuous learning and leveraging innovative technologies to solve
 ## 🔗 Connect With Me
 <a href="https://linkedin.com/in/haroon-fayyaz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;
 <a href="https://github.com/haroonfayyaz" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;
-<a href="mailto:haroonfayyaz98@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;
-<a href="https://x.com/haroonfayyaz98" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>
 
 ---
